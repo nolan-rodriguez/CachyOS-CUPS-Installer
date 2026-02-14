@@ -31,3 +31,4 @@ echo "Print utilities have been installed."
 echo "If you installed the KDE Plasma print settings integrations, then navigate to the printers section in settings."
 echo "If you didn't, then you can configure CUPS with the web interface by navigating to http://localhost:631/"
 read -rp "Press any key to finish." -n 1
+exit
